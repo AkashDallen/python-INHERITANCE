@@ -59,8 +59,8 @@ while True:
 	elif ch==2:
 		printtemp()
 	elif ch==3:
-    break;
-  else:
-    print("wrong choice ?!")  
+                break;
+        else:
+                print("wrong choice ?!")  
 
 
